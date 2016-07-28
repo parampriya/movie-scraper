@@ -16,6 +16,6 @@ Well you got to install all the dependencies(requirements.txt), and run it in a 
 #### You can use it by executing step by step or all at once, in a python console or any python IDE.
 
 ### Installing Dependencies:
-'
-pip install -r requirements.txt
-'
+```sh
+$ pip install -r requirements.txt
+```
