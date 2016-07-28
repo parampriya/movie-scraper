@@ -14,3 +14,6 @@ It pulls the number of records which you feed in, from a specific link.
 Well you got to install all the dependencies(requirements.txt), and run it in a python console
 
 #### You can use it by executing step by step or all at once, in a python console or any python IDE.
+
+### Installing Dependencies:
+pip install -r requirements.txt
