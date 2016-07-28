@@ -11,6 +11,6 @@ What we are doing here is using this code for educational purpose only, i do not
 It pulls the number of records which you feed in, from a specific link.
 
 ## It's not working!
-Well you got to install all the dependencies(dependencies.txt), and run it in a python console
+Well you got to install all the dependencies(requirements.txt), and run it in a python console
 
 #### You can use it by executing step by step or all at once, in a python console or any python IDE.
