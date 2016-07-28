@@ -3,6 +3,8 @@ Please note: It's suggested to not violate the Terms & Conditions of imdb.com  (
 
 Public domain information (movie names, ratings, gross income, etc), as I understand it, can be used. 
 
+However, you can simply use the plain-text files whenever you have big jobs that need to look at more than a handful of movies: http://www.imdb.com/interfaces
+
 What we are doing here is using this code for educational purpose only, i do not recomend that you use this data without their permission. I have programmed this code just to show you, how you can pull the data and you have the data in nicer form, which you can extend to any other service.
 
 ## What does it do?
